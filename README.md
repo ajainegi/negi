@@ -1,0 +1,2 @@
+# negi
+my first repository
